@@ -1,6 +1,6 @@
 # Useful-Redefinitions
 
-This git will be updated with class redefinitions, or new classes that are consistently reused
+1. First update - NSString string reversal.
 
 
 //CK
